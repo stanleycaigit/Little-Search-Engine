@@ -1,0 +1,5 @@
+AliceCh1.txt
+WowCh1.txt
+AliceCh2.txt
+RichDad.txt
+random.txt
