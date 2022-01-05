@@ -3,12 +3,6 @@ package lse;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-/*
- *
- * Little Search Engine Test App (LSETest)
- * Test application for LSE
- *
- */
 public class LSETest {
 
     public static void main (String[] args) throws FileNotFoundException{
